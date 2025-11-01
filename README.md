@@ -10,6 +10,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV-orange?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OPER-UPOLNOMOCHINY&color=blueviolet&style=for-the-badge)
@@ -37,12 +38,14 @@ class Developer:
             "backend": ["Python", "Django", "RESTful APIs"],
             "frontend": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
             "database": ["PostgreSQL", "SQLite", "Database Design"],
+            "computer_vision": ["OpenCV", "Face Recognition", "Image Processing"],
             "tools": ["Git", "GitHub", "VS Code", "PyCharm"]
         }
 ```
 
 ### 🎯 Professional Focus
-- **Full-Stack Web Development** - Building end-to-end web applications
+- **Full-Stack Web Development** - Building end-to-end web applications with modern frameworks
+- **Computer Vision & AI** - Implementing face recognition, object detection, and image processing
 - **Security-Oriented Solutions** - Implementing anti-spoofing & authentication systems
 - **Database Architecture** - Designing efficient relational database structures
 - **Clean Code Practices** - Writing maintainable, scalable, and well-documented code
@@ -64,6 +67,12 @@ class Developer:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### Computer Vision & AI
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-8BC34A?style=flat&logo=pillow&logoColor=white)
 
 ### Database & Data
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -110,6 +119,33 @@ class Developer:
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%">
+
+### Computer Vision & AI
+- ✅ Image Processing & Manipulation
+- ✅ Face Detection & Recognition
+- ✅ Object Detection & Tracking
+- ✅ Feature Extraction & Analysis
+- ✅ Neural Networks & Deep Learning
+- ✅ Real-time Video Processing
+
+</td>
+<td width="50%">
+
+### Data Science Tools
+- ✅ NumPy & Pandas
+- ✅ Data Visualization
+- ✅ Statistical Analysis
+- ✅ Machine Learning Algorithms
+- ✅ Model Training & Evaluation
+- ✅ Performance Optimization
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 Featured Projects
@@ -119,6 +155,14 @@ A security-focused web application implementing advanced authentication with ant
 - **Stack**: Python, Django, PostgreSQL, JavaScript
 - **Features**: User authentication, security protocols, database integration
 - **Key Achievement**: Implemented robust security measures for user verification
+
+### 👁️ Computer Vision Projects
+Developed AI-powered applications using computer vision and machine learning:
+- **Face Recognition Systems** - Real-time face detection and identification using OpenCV
+- **Object Detection** - Image and video analysis for automated object tracking
+- **Image Processing** - Advanced image manipulation and feature extraction
+- **Stack**: Python, OpenCV, TensorFlow, NumPy, Pillow
+- **Applications**: Security systems, automated quality control, biometric authentication
 
 ### 🌐 Full-Stack Web Applications
 Developed multiple end-to-end web applications with focus on:
@@ -132,10 +176,10 @@ Developed multiple end-to-end web applications with focus on:
 ## 📊 Development Stats
 
 ```text
-🌟 Primary Language:     Python (Django Framework)
+🌟 Primary Language:     Python (Django, OpenCV)
 💻 Code Quality:         Clean, Documented, Maintainable
-🎯 Focus Areas:          Full-Stack Development, Web Security
-📚 Currently Learning:   Advanced Django, React.js, Docker
+🎯 Focus Areas:          Full-Stack Development, Computer Vision, Web Security
+📚 Currently Learning:   Advanced Django, React.js, Deep Learning, Docker
 ```
 
 ---
@@ -144,6 +188,7 @@ Developed multiple end-to-end web applications with focus on:
 
 ### Current Learning Path
 - 🔹 **Advanced Django Patterns** - Mastering Django ORM, middleware, and advanced features
+- 🔹 **Deep Learning & Neural Networks** - TensorFlow, Keras, advanced CV algorithms
 - 🔹 **Modern JavaScript** - ES6+, async/await, modern frameworks
 - 🔹 **DevOps Basics** - Docker, CI/CD pipelines, deployment strategies
 - 🔹 **Testing & QA** - Unit testing, integration testing, TDD practices
@@ -163,6 +208,7 @@ const myValue = {
     technical: [
         "Strong foundation in Python & Django",
         "Full-stack web development capabilities",
+        "Computer vision & AI expertise",
         "Database design & optimization skills",
         "Security-conscious development approach"
     ],
@@ -208,7 +254,7 @@ I'm always open to collaborating on interesting projects, discussing tech, or ex
 
 ### 🤝 Open to Opportunities
 
-I'm actively seeking **Junior Full-Stack Developer** positions where I can contribute my skills, 
+I'm actively seeking **Junior Full-Stack Developer** positions (with Computer Vision/AI focus) where I can contribute my diverse skills, 
 learn from experienced developers, and grow as a professional software engineer.
 
 **Let's build something amazing together!** 🚀
