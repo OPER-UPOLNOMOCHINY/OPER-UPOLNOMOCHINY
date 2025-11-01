@@ -1,53 +1,220 @@
-# 👋 Hi, I’m **OPER-UPOLNOMOCHINY**
+<div align="center">
 
-<!-- Badges -->
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&style=for-the-badge)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-4.x-green?logo=django&style=for-the-badge)](https://www.djangoproject.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)  
-[![Student](https://img.shields.io/badge/🎓-3rd_Year-brightgreen?style=for-the-badge)]()
+# 👨‍💻 Junior Full-Stack Developer
 
----
+### Building Scalable Web Solutions with Modern Technologies
 
-### 🎓 About Me  
-- 3rd year student at Inha University in Tashkent (IUT)  
-- Aspiring Full-Stack Developer  
-- Primary language: **Python**  
-- Also working with: SQL · HTML · CSS · JavaScript  
-- Framework experience: Django
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-4.x-092E20?logo=django&logoColor=white&style=for-the-badge)](https://www.djangoproject.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=OPER-UPOLNOMOCHINY&color=blueviolet&style=for-the-badge)
+
+</div>
 
 ---
 
-### 🔧 What I’m Building  
-I’m focused on web applications that solve real-world problems — from backend architectures in Django to responsive front-ends in HTML/CSS/JS.  
-Currently targeting junior full-stack roles where I can grow, collaborate with teams, and contribute to meaningful projects.
+## 👋 About Me
+
+I'm a **Junior Full-Stack Developer** with a passion for creating efficient, user-friendly web applications. Currently in my 3rd year at **Inha University in Tashkent (IUT)**, I combine academic excellence with hands-on development experience to deliver robust solutions.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "OPER-UPOLNOMOCHINY"
+        self.role = "Junior Full-Stack Developer"
+        self.education = "Inha University in Tashkent (IUT)"
+        self.year = "3rd Year"
+        self.languages = ["Python", "JavaScript", "SQL", "HTML", "CSS"]
+        self.interests = ["Web Development", "Computer Vision", "Cyber Security"]
+    
+    def get_stack(self):
+        return {
+            "backend": ["Python", "Django", "RESTful APIs"],
+            "frontend": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+            "database": ["PostgreSQL", "SQLite", "Database Design"],
+            "tools": ["Git", "GitHub", "VS Code", "PyCharm"]
+        }
+```
+
+### 🎯 Professional Focus
+- **Full-Stack Web Development** - Building end-to-end web applications
+- **Security-Oriented Solutions** - Implementing anti-spoofing & authentication systems
+- **Database Architecture** - Designing efficient relational database structures
+- **Clean Code Practices** - Writing maintainable, scalable, and well-documented code
 
 ---
 
-### 🛠 Tech Stack  
-| Layer         | Technologies                     |
-|---------------|----------------------------------|
-| **Backend**   | Python · Django                  |
-| **Frontend**  | HTML5 · CSS3 · JavaScript        |
-| **Data / DB** | SQL (relational databases)       |
+## 🛠 Technical Skills
+
+<div align="center">
+
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### Database & Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-### 🌱 My Goals  
-- 🎯 Launch a **Junior Full-Stack Developer** role by end of year  
-- 🌍 Contribute to open-source projects (especially security / anti-spoofing)  
-- 🎓 Combine my background in computer vision & cyber-security with full-stack web development  
+## 💼 Core Competencies
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Engineering
+- ✅ RESTful API Development
+- ✅ Database Design & Optimization
+- ✅ User Authentication & Authorization
+- ✅ Server-Side Logic Implementation
+- ✅ ORM (Object-Relational Mapping)
+- ✅ Security Best Practices
+
+</td>
+<td width="50%">
+
+### Frontend Development
+- ✅ Responsive Web Design
+- ✅ DOM Manipulation
+- ✅ Cross-Browser Compatibility
+- ✅ UI/UX Implementation
+- ✅ Form Validation & Handling
+- ✅ AJAX & Asynchronous Operations
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Let’s Connect  
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [you@example.com]  
-- Telegram / Other: [Your contact]
+## 🚀 Featured Projects
 
-> “Coding is like solving a puzzle — the more pieces you connect, the clearer the picture becomes.”
+### 🔐 Anti-Spoofing Authentication System
+A security-focused web application implementing advanced authentication with anti-spoofing measures.
+- **Stack**: Python, Django, PostgreSQL, JavaScript
+- **Features**: User authentication, security protocols, database integration
+- **Key Achievement**: Implemented robust security measures for user verification
 
-Thanks for stopping by — let’s build something great together!  
-— **OPER-UPOLNOMOCHINY** 🚀
+### 🌐 Full-Stack Web Applications
+Developed multiple end-to-end web applications with focus on:
+- Clean, maintainable code architecture
+- RESTful API design patterns
+- Responsive user interfaces
+- Secure data handling and storage
+
+---
+
+## 📊 Development Stats
+
+```text
+🌟 Primary Language:     Python (Django Framework)
+💻 Code Quality:         Clean, Documented, Maintainable
+🎯 Focus Areas:          Full-Stack Development, Web Security
+📚 Currently Learning:   Advanced Django, React.js, Docker
+```
+
+---
+
+## 🌱 Professional Development
+
+### Current Learning Path
+- 🔹 **Advanced Django Patterns** - Mastering Django ORM, middleware, and advanced features
+- 🔹 **Modern JavaScript** - ES6+, async/await, modern frameworks
+- 🔹 **DevOps Basics** - Docker, CI/CD pipelines, deployment strategies
+- 🔹 **Testing & QA** - Unit testing, integration testing, TDD practices
+
+### Career Objectives
+- 🎯 Secure a **Junior Full-Stack Developer** position at a growth-oriented tech company
+- 🌍 Contribute to **open-source projects** in web development and security domains
+- 🎓 Integrate **computer vision & cyber-security** expertise with full-stack development
+- 🚀 Build scalable applications that solve real-world problems
+
+---
+
+## 💡 What I Bring to the Table
+
+```javascript
+const myValue = {
+    technical: [
+        "Strong foundation in Python & Django",
+        "Full-stack web development capabilities",
+        "Database design & optimization skills",
+        "Security-conscious development approach"
+    ],
+    soft: [
+        "Quick learner & adaptable to new technologies",
+        "Problem-solving mindset",
+        "Team collaboration & communication",
+        "Attention to detail & code quality"
+    ],
+    mindset: [
+        "Passion for continuous learning",
+        "User-centric development approach",
+        "Best practices & clean code advocate",
+        "Results-driven & deadline-oriented"
+    ]
+};
+```
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects, discussing tech, or exploring opportunities!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OPER-UPOLNOMOCHINY)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Philosophy
+
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+### 🤝 Open to Opportunities
+
+I'm actively seeking **Junior Full-Stack Developer** positions where I can contribute my skills, 
+learn from experienced developers, and grow as a professional software engineer.
+
+**Let's build something amazing together!** 🚀
+
+---
+
+⭐️ From [OPER-UPOLNOMOCHINY](https://github.com/OPER-UPOLNOMOCHINY) | Made with ❤️ and lots of ☕
+
+</div>
