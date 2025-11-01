@@ -187,10 +187,11 @@ Developed multiple end-to-end web applications with focus on:
 ### 📈 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OPER-UPOLNOMOCHINY&show_icons=true&theme=blueviolet&hide_border=true&bg_color=0D1117&title_color=9966FF&icon_color=9966FF)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OPER-UPOLNOMOCHINY&layout=compact&theme=blueviolet&hide_border=true&bg_color=0D1117&title_color=9966FF)
+
+<a href="https://github.com/OPER-UPOLNOMOCHINY">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OPER-UPOLNOMOCHINY&show_icons=true&theme=blueviolet&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPER-UPOLNOMOCHINY&layout=compact&theme=blueviolet&hide_border=true"/>
+</a>
 
 </div>
 
