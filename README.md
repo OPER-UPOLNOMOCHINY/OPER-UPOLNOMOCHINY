@@ -13,7 +13,9 @@
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV-orange?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=OPER-UPOLNOMOCHINY&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=OPER-UPOLNOMOCHINY&color=blueviolet&style=for-the-badge&label=Profile%20Views)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=OPER-UPOLNOMOCHINY&theme=blueviolet&hide_border=true&mode=weekly)
 
 </div>
 
@@ -181,6 +183,16 @@ Developed multiple end-to-end web applications with focus on:
 🎯 Focus Areas:          Full-Stack Development, Computer Vision, Web Security
 📚 Currently Learning:   Advanced Django, React.js, Deep Learning, Docker
 ```
+
+### 📈 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OPER-UPOLNOMOCHINY&show_icons=true&theme=blueviolet&hide_border=true&bg_color=0D1117&title_color=9966FF&icon_color=9966FF)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OPER-UPOLNOMOCHINY&layout=compact&theme=blueviolet&hide_border=true&bg_color=0D1117&title_color=9966FF)
+
+</div>
 
 ---
 
